@@ -1,7 +1,7 @@
 ## Rhythm-flexible Voice Conversion Without Parallel Data Using Cycle-GAN over Phoneme Posteriorgram Sequences
 
 ### Model Architectures
-<img src=https://www.csie.ntu.edu.tw/~b02902099/arch_v2.png alt="drawing" width="500px"/>
+<img src=https://www.csie.ntu.edu.tw/~b02902099/arch_v3.png alt="drawing" width="500px"/>
 
 * FC indicates fully-connected layer.
 * N_phoneme equals to 70 in all experiments.
